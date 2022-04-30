@@ -1,1 +1,1 @@
-# A-blog-api
+Hello there,welcome to my blog-api-series....this project is meant to give you a vast knowledge on how to use django_rest_framework....In this project,you will learn how to use signals,registering users,token authentication,how to make a POST,RETRIEVE,UPDATE,GET and DELETE request....It also give you an insight on how complex it can be like adding users comment.......it was fun while building this!!!! 
